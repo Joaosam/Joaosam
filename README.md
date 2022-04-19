@@ -12,12 +12,14 @@
 </div>
 
   ##
-  
+
+  <h3>Portfolio Page: https://joaosam.github.io/PortfolioPage/ </h3>
   <div> 
   <a href="https://www.instagram.com/jpms_jp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao99.jp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-mendes-dos-santos-3b7b3a121/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Joaosam/Joaosam/blob/output/github-contribution-grid-snake.svg)
+  <h3> “Cumpre o pequeno dever de cada momento: faz o que deves e está no que fazes” – São Josemaria Escrivá </h3>
  
 </div>
