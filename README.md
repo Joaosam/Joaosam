@@ -1,4 +1,4 @@
-## Hi! I'm João Santos ✋
+## Hi! I'm João Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <h3>Portfolio Page: https://joaosam.github.io/PortfolioPage/ </h3>
 <br>
 <div align="center">
