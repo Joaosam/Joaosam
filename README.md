@@ -1,4 +1,4 @@
-## Hi! I'm João Santos <img src="assets/hi.gif" height="25px">
+## Hi! I'm João Santos <img src="assets/hi.gif" height="25em">
 <h3>Portfolio Page: https://joaosam.github.io/PortfolioPage/ </h3>
 <br>
 <div align="center">
