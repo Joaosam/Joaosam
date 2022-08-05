@@ -1,5 +1,5 @@
 ## Hi! I'm João Santos <img src="assets/hi.gif" height="25em">
-<h3>Portfolio Page: https://joaosam.github.io/PortfolioPage/ </h3>
+<h3>Portfolio Page: https://joaosam.github.io/Portfolio/ </h3>
 <br>
 <div align="center">
   <a href="https://github.com/Joaosam">
